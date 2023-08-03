@@ -11,7 +11,7 @@ let studentObj = {
 let studentArr = Object.entries(studentObj);
 console.log("student Arr");
 console.log(studentArr);
-console.log(studentArr.sort());
+console.log("sorted:", studentArr.sort());
 console.log("\n");
 
 let studentArr_values = Object.values(studentObj);
