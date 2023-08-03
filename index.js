@@ -29,4 +29,4 @@ console.log("\n");
 let key_value_arr = [...studentArr_keys, ...studentArr_values];
 console.log("Key and values together: ");
 console.log(key_value_arr);
-console.log("sorted", key_value_arr.sort());
+console.log("sorted:", key_value_arr.sort());
